@@ -1,18 +1,8 @@
 # Code Refactor Starter Code
 
-## Description 
+## Purpose
+This web challenge was take take code and make it more accessible. The developer is to take the cocde and refactor it so it meets the expected set of standards
 
-### ![mainpage](https://user-images.githubusercontent.com/93367297/161381940-b0a0ee40-4d53-475e-aa7d-b792ab94a92a.png)
+## https://andrewfaugno.github.io/horiseon/
 
-
-#### https://andrewfaugno.github.io/horiseon/
-
-
-
-
-
-
-
-<!-- Repository contains quality README file with description, screenshot, and link to deployed application. -->
-
-<!-- w3c validator website  -->
+### ![mainpage](https://user-images.githubusercontent.com/93367297/161382203-3b6b15f5-d5af-4596-b7e4-6bb9c3c60005.png)
