@@ -1,4 +1,15 @@
 # Code Refactor Starter Code
+
+## 
+
+
+
+
+
+
+
+
+
 Optimizing website for search engines by updating code to follow accessibility standards by:
 
     Updating semantic html elements
@@ -29,9 +40,8 @@ Optimizing website for search engines by updating code to follow accessibility s
 <!-- img alt attributes --> / 
 <!-- heading attributes (h1, h2, etc.) --> / 
 <!-- html elements follow logical structure independent of styling and positioning --> / 
-<!-- CSS clean up and add comments -->
+<!-- CSS clean up and add comments --> / 
 <!-- w3c validator website  -->
-<!-- extensions - auto rename tag - prettier -  -->
 
 
 <!-- REQUIREMENTS 
