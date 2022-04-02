@@ -1,7 +1,7 @@
 # Code Refactor Starter Code
 
 ## Purpose
-This web challenge was take take code and make it more accessible. The developer is to take the cocde and refactor it so it meets the expected set of standards
+This web challenge was to take code and make it more accessible. The developer has to take the code and refactor it so it meets the expected set of standards.
 
 ## https://andrewfaugno.github.io/horiseon/
 
