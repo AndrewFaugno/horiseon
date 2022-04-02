@@ -2,7 +2,7 @@
 
 ## Description 
 
-### ![Screenshot of website] (https://github.com/AndrewFaugno/horiseon/assets/images/horiseon-web.png?raw=true) 
+### ![Screenshot of website] (https://user-images.githubusercontent.com/93367297/161381883-582a573e-67c6-41f0-938a-e268019d561d.png") 
 
 #### https://andrewfaugno.github.io/horiseon/
 
